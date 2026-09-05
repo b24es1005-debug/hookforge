@@ -1,0 +1,18 @@
+# Environment variables
+.env
+.env.*
+
+# Go build output
+*.exe
+*.out
+*.test
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+
+# Logs
+*.log
